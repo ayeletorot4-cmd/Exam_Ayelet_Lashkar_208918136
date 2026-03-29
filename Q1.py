@@ -1,8 +1,8 @@
 
 def get_grade():
     """
-
-    :return:
+    get grade from user input and print the number of valid grades, the average and the highest grade
+    :return: None
     """
     valid_grade = []
     while True:
